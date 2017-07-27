@@ -38,7 +38,7 @@ public enum Ionicons: UInt16, CustomStringConvertible {
         
         let label = UILabel()
         
-        label.font = UIFont(name: "ionicons", size: size)
+        label.font = UIFont(name: "ionicons30", size: size)
         label.text = description
         label.textColor = color
         label.textAlignment = .center
